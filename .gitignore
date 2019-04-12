@@ -3,6 +3,10 @@
 *.lo
 *.o
 *.obj
+[Dd]ebug
+[Rr]elease
+x64
+x86
 
 # Precompiled Headers
 *.gch
@@ -26,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# VSC
+.vscode
+
+# Caches
+.vs
+*.user
+
+# Etc.
+*.zip
